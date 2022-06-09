@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salttest-company-website/static/css/main.664bb2e7.css",
+    "main.js": "/salttest-company-website/static/js/main.d02b4a66.js",
+    "static/js/787.5687a041.chunk.js": "/salttest-company-website/static/js/787.5687a041.chunk.js",
+    "static/media/benjamin-wong-4-ka5rdCesI-unsplash.png": "/salttest-company-website/static/media/benjamin-wong-4-ka5rdCesI-unsplash.89c9ae31f98c243a9caf.png",
+    "static/media/Rubik-Regular.ttf": "/salttest-company-website/static/media/Rubik-Regular.da39336cfcac7980f2f1.ttf",
+    "static/media/Rubik-Medium.ttf": "/salttest-company-website/static/media/Rubik-Medium.5bd2b2c6ad8019567605.ttf",
+    "static/media/CoreValuesIllustration.png": "/salttest-company-website/static/media/CoreValuesIllustration.98dac9b217bd0a90faaf.png",
+    "static/media/slick.svg": "/salttest-company-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/salttest-company-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/salttest-company-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/salttest-company-website/index.html",
+    "static/media/slick.woff": "/salttest-company-website/static/media/slick.295183786cd8a1389865.woff",
+    "main.664bb2e7.css.map": "/salttest-company-website/static/css/main.664bb2e7.css.map",
+    "main.d02b4a66.js.map": "/salttest-company-website/static/js/main.d02b4a66.js.map",
+    "787.5687a041.chunk.js.map": "/salttest-company-website/static/js/787.5687a041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664bb2e7.css",
+    "static/js/main.d02b4a66.js"
+  ]
+}
